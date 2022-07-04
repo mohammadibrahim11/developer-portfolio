@@ -89,7 +89,7 @@ section{
 .experiences-item{
     box-shadow: 10px 10px 30px gray;
     width: 40%;
-    margin-left:5% ;
+    margin-left:7% ;
     margin-right:5%;
     padding: 10px;
     text-align: justify;
@@ -97,7 +97,15 @@ section{
     padding-right: 200px;
     border-radius: 7px;
   
+  
     
+}
+
+#full-stack-developer{
+    border-left: 7px solid orangered;
+}
+#baby-web-developer{
+    border-left: 7px solid purple;
 }
 .experience-section{
     background-image: url(images/exp-bg.png);
