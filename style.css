@@ -39,8 +39,16 @@ section{
 
 section-one{
      
-     background-image: url(images/top-banner.png);  
+     background-image: url(showOff/holiday.jpg);  
      background-repeat: no-repeat;
      
+
+}
+.link-button2{
+    border: 1px solid yellowgreen;
+    border-radius: 9px;
+    text-decoration: none;
+    padding: 10px 80px;
+    
 
 }
