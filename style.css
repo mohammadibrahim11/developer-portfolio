@@ -8,7 +8,17 @@ h1{
 .change-color{
     color: olivedrab;
 }
-.about-me{
-    width: 500px;
-    text-align: justify;
+.half-width{
+
+    width: 50%;
+    padding: 5%;
+    
+
+}
+.half-width img{
+    width: 80%;
+}
+
+section{
+    display: flex;
 }
