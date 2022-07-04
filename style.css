@@ -81,3 +81,7 @@ section{
     margin-top:100px;
 }
 
+.experience-section{
+    display: flex;
+}
+
