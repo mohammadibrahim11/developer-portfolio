@@ -31,6 +31,7 @@ h1{
     color: whitesmoke;
     font-weight: 500;
     font-size: 22px;
+    text-transform: capitalize;
   
 }
 section{
@@ -45,10 +46,24 @@ section-one{
 
 }
 .link-button2{
-    border: 1px solid yellowgreen;
+    border: 1px solid #FF2E80;
     border-radius: 9px;
     text-decoration: none;
-    padding: 10px 80px;
+    padding: 10px 60px;
+    background-image: linear-gradient(#FF2E80,#FF2E90);
+    color: whitesmoke;
+    font-size: 22px;
+    text-transform: capitalize;
+    font-weight: 500;
+  
     
 
+}
+
+.half-width,h3,p{
+    text-transform: capitalize;
+}
+
+.half-width,a{
+    margin-top: 30px;
 }
