@@ -20,6 +20,11 @@ h1{
     width: 80%;
 }
 
+.half-width p{
+    width: 500px;
+    text-align: justify;
+}
+
 
 
 .link-button{
@@ -36,6 +41,9 @@ h1{
 }
 .dream-big{
     display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 .section-one{
@@ -65,3 +73,11 @@ h1{
 .half-width,h3,p{
     text-transform: capitalize;
 }
+section{
+    margin-bottom: 100px;
+}
+
+ .dream-big,.newstyle h1{
+    margin-top:100px;
+}
+
