@@ -8,3 +8,7 @@ h1{
 .change-color{
     color: olivedrab;
 }
+.about-me{
+    width: 500px;
+    text-align: justify;
+}
