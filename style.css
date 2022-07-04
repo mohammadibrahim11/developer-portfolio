@@ -1,5 +1,6 @@
 body{
     font-family: 'Oswald', sans-serif;
+    margin: 0;
    
 }
 h1{
@@ -19,9 +20,8 @@ h1{
     width: 80%;
 }
 
-section{
-    display: flex;
-}
+
+
 .link-button{
     text-decoration: none;
     border: 1px solid ;
@@ -32,4 +32,15 @@ section{
     font-weight: 500;
     font-size: 22px;
   
+}
+section{
+    display: flex;
+}
+
+section-one{
+     
+     background-image: url(images/top-banner.png);  
+     background-repeat: no-repeat;
+     
+
 }
