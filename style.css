@@ -34,14 +34,15 @@ h1{
     text-transform: capitalize;
   
 }
-section{
+.dream-big{
     display: flex;
 }
 
-section-one{
+.section-one{
      
-     background-image: url(showOff/holiday.jpg);  
+     background-image: url(images/top-banner.png);  
      background-repeat: no-repeat;
+     display: flex;
      
 
 }
@@ -55,6 +56,7 @@ section-one{
     font-size: 22px;
     text-transform: capitalize;
     font-weight: 500;
+   
   
     
 
@@ -64,6 +66,3 @@ section-one{
     text-transform: capitalize;
 }
 
-.half-width,a{
-    margin-top: 30px;
-}
