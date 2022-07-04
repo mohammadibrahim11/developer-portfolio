@@ -22,3 +22,14 @@ h1{
 section{
     display: flex;
 }
+.link-button{
+    text-decoration: none;
+    border: 1px solid ;
+    padding: 10px 40px;
+    border-radius: 9px;
+    background-image: linear-gradient(#FF2E80, #ff2e90);
+    color: whitesmoke;
+    font-weight: 500;
+    font-size: 22px;
+  
+}
